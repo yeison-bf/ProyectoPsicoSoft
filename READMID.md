@@ -16,3 +16,6 @@
 5. git branch -M main
 6. git remote add origin {Dirección de mi guthub}
 7. git push
+
+#Clonar un proyecto
+8. git clone
