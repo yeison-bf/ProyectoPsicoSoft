@@ -6,6 +6,8 @@
 3. git reset
 4. git commit -m "Comentario"
 
+4.1. git commit -am "Comentario"
+
 #Los comandos escenciales son (2,4) git
 
 
