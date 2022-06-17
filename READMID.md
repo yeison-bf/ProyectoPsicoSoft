@@ -7,3 +7,10 @@
 4. git commit -m "Comentario"
 
 #Los comandos escenciales son (2,4) git
+
+
+#Comandos para GitHub
+#Ramas
+5. git branch -M main
+6. git remote add origin {Dirección de mi guthub}
+7. git push
